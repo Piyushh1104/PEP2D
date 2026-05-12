@@ -104,7 +104,7 @@ The eight DSSP states were grouped into:
 | B, E | Sheet (E) |
 | S, T, C | Coil (C) |
 
-Source: :contentReference[oaicite:2]{index=2}
+
 
 ---
 
