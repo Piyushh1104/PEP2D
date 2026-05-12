@@ -36,7 +36,7 @@ Harinder Singh, Sandeep Singh and Gajendra Pal Singh Raghava
 **Correct DOI:**  
 https://doi.org/10.1101/558791
 
-Source Paper: :contentReference[oaicite:0]{index=0}
+
 
 ---
 
